@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/Makefile
+!/README.md
+!/src/
+/src/*
+!/src/*.c
+!/include/
+/include/*
+!/include/*.h
+
+/tests/
